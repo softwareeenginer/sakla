@@ -1,0 +1,18 @@
+tmp
+
+
+$ git checkout newbranch
+
+# Environment variables, never commit this file
+.env
+
+# The development sqlite file
+database/development.sqlite
+
+# VSCode & Webstorm history directories
+.history
+.idea
+*.DS_Store
+uploads/
+.ftpconfig
+node_modules/
