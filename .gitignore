@@ -1,5 +1,8 @@
 tmp
 
+
+$ git checkout newbranch
+
 # Environment variables, never commit this file
 .env
 
