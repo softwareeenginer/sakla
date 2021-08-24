@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "SAKLA-API",
+      "script": "bin/www",
+      "watch": true,
+      "ignore_watch": ["uploads", "node_modules", "assets"]
+    }
+  ]
+}

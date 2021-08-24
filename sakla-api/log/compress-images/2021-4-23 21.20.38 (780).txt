@@ -1,0 +1,7 @@
+File from: [../image/asdf.png]
+
+File to: [../outputcompressasdf.png]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

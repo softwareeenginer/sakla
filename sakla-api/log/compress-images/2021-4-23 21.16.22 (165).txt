@@ -1,0 +1,7 @@
+File from: [../image/mario_PNG53.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+File to: [../outputcompress/mario_PNG53.{jpg,JPG,jpeg,JPEG,png,svg,gif}]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

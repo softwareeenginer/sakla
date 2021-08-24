@@ -1,0 +1,7 @@
+File from: [./image/asdf.png]
+
+File to: [./outputcompress/kaydetmenoktasiasdf.png]
+
+Compression algorithm: [-]
+
+Description: File does not exist!
